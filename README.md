@@ -60,6 +60,8 @@ Corriente en R5 circuito Thévenin
 
 # Video
 
+https://www.youtube.com/watch?v=IoTiuIy3vWE
+
 # Conclusiones
 
 # Bibliografía
