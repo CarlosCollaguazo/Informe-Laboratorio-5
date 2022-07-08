@@ -81,3 +81,20 @@ https://www.youtube.com/watch?v=IoTiuIy3vWE
 
 # Bibliografía
 
+AREATECNOLOGIA. (8 de Julio de 2022). AREATECNOLOGIA. Obtenido de AREATECNOLOGIA: 
+
+https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-
+
+norton.html#:~:text=El%20valor%20de%20la%20resistencia,interruptor%20abierto%2
+
+20(circuito%20abierto).
+
+
+Hyperphysics. (8 de Julio de 2022). hyperphysics. Obtenido de hyperphysics: 
+
+http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/thevenin.html
+
+wikipedia. (8 de Julio de 2022). wikipedia. Obtenido de wikipedia: 
+
+https://es.wikipedia.org/wiki/Teorema_de_Thévenin
+
