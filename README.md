@@ -24,6 +24,30 @@ NRC: 7310
 
 # Resolución de problema
 
+Resistencia Thévenin
+
+![image](https://user-images.githubusercontent.com/105715717/178013181-9e10148d-7d07-4a09-a360-2fe0d2451294.png)
+
+Voltaje Thévenin
+
+![image](https://user-images.githubusercontent.com/105715717/178013210-235b0d00-4101-411b-ad71-3d29169c45a7.png)
+
+Voltaje en R5 circuito original
+
+![image](https://user-images.githubusercontent.com/105715717/178013231-b197b033-dc03-4160-8e7d-dc5770c96b8e.png)
+
+Corriente en R5 circuito original
+ 
+![image](https://user-images.githubusercontent.com/105715717/178013248-a06c6761-c2fa-474d-a998-c506789748a5.png)
+
+Voltaje en R5 circuito Thévenin
+
+![image](https://user-images.githubusercontent.com/105715717/178013272-d16fb92a-501e-458d-a47e-ee9df619a280.png)
+
+Corriente en R5 circuito Thévenin
+
+![image](https://user-images.githubusercontent.com/105715717/178013290-f73853f0-f0ab-4327-9dd6-a3f430bfbcda.png)
+
 ![image](https://user-images.githubusercontent.com/105675868/178011310-00c5e1f6-de1b-4a3f-a9a3-59ec989fbf7a.png)
 
 ![image](https://user-images.githubusercontent.com/105675868/178011086-e1237e9e-e467-4f5d-8290-89ccaf95ebfc.png)
@@ -31,3 +55,12 @@ NRC: 7310
 ![image](https://user-images.githubusercontent.com/105675868/178011166-d22a2a6a-56dc-4916-afc1-bde1a211861c.png)
 
 ![image](https://user-images.githubusercontent.com/105675868/178011221-e59d2dde-c192-4eaa-86a8-0607e3d62b76.png)
+
+# Respuesta a interrogantes
+
+# Video
+
+# Conclusiones
+
+# Bibliografía
+
