@@ -71,6 +71,8 @@ Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 Cálculo de error de mediciones
 
+![image](https://user-images.githubusercontent.com/105715717/178032964-5c5fb2cd-c36c-4bea-b1c5-33c06c24f85e.png)
+
 # Video
 
 https://www.youtube.com/watch?v=IoTiuIy3vWE
