@@ -22,9 +22,6 @@ NRC: 7310
 
 # Marco teórico
 
-![image](https://user-images.githubusercontent.com/105691698/178026059-00bcf779-cc69-4580-852c-e37046e56b70.png)
-
-
 # Resolución de problema
 
 Resistencia Thévenin
@@ -61,9 +58,10 @@ Corriente en R5 circuito Thévenin
 
 # Respuesta a interrogantes
 
-# Video
+Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
-https://www.youtube.com/watch?v=IoTiuIy3vWE
+
+# Video
 
 # Conclusiones
 
