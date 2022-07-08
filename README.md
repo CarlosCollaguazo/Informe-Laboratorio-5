@@ -22,6 +22,9 @@ NRC: 7310
 
 # Marco teórico
 
+![image](https://user-images.githubusercontent.com/105691698/178026059-00bcf779-cc69-4580-852c-e37046e56b70.png)
+
+
 # Resolución de problema
 
 Resistencia Thévenin
