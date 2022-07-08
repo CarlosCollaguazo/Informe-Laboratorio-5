@@ -16,7 +16,7 @@ NRC: 7310
 
 1.2 Objetivos específicos
 
-* Investigar conceptos básicos que muestran el uso adecuado de las leyes de Kirchhoff por análisis de mallas en circuitos mixtos.
+* Investigar conceptos básicos que muestran el uso adecuado del Teorema de Thevenin.
 * Hacer uso del simulador tinkercad para un mejor entendimiento sobre el montaje de circuitos eléctricos, mediante la utilización de materiales de laboratorios simulados por el mismo.
 * Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para resolver el laboratorio, mediante la elaboración de un documento escrito que lleve al lector a un mejor entendimiento del tema plasmado.
 
