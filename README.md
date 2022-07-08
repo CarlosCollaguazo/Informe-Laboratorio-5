@@ -63,6 +63,13 @@ Corriente en R5 circuito Thévenin
 
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
+![image](https://user-images.githubusercontent.com/105715717/178031863-0b2e7549-59c7-47ef-bb28-5e166f7d7e01.png)
+
+Tabla 5.2. Comprobación del Teorema de Thévenin.
+
+![image](https://user-images.githubusercontent.com/105715717/178031912-aacaa6d5-746f-4225-a6ce-2bc467a458e8.png)
+
+Cálculo de error de mediciones
 
 # Video
 
